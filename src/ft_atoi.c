@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aramon <aramon@student.42.fr>              +#+  +:+       +#+        */
+/*   By: aramon <aramon@student.42perpignan.fr>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/05 16:16:38 by aramon            #+#    #+#             */
-/*   Updated: 2023/02/15 23:40:14 by aramon           ###   ########.fr       */
+/*   Created: 2023/05/29 12:20:13 by aramon            #+#    #+#             */
+/*   Updated: 2023/05/29 12:20:35 by aramon           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../inc/libft.h"
+#include "../inc/philo.h"
 
 static int	ft_isspace(int c)
 {
